@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Deployments for the Apps
+ToDo App: https://todo-52c81.web.app/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -33,9 +37,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-
-### Deployments for the Apps
-ToDo App: https://todo-52c81.web.app/
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
