@@ -17,7 +17,7 @@ function ToDoApp() {
         useEffect(() => {
             // this code loads when the app loads
             db.collection('todos').orderBy('timestamp', 'desc').onSnapshot(snapshot => {
-                console.log(snapshot.docs.map(doc => doc.data()));
+                // console.log(snapshot.docs.map(doc => doc.data()));
                 setTodos(snapshot.docs.map(doc => ({id: doc.id, title: doc.data().task, timestamp: doc.data().timestamp})));  
             })
         }, []);

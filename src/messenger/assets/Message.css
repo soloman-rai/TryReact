@@ -1,0 +1,48 @@
+.message {
+    margin: 10px;
+    width: fit-content;
+    color:white !important;
+}
+
+.message_user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+
+.message_userCard {
+    background-color: #7209b7 !important;
+}
+
+.message_guestCard {
+    background-color: #f72585 !important;
+}
+
+.messageText {
+    color: white !important;
+    font-weight: bolder;
+}
+
+
+.msgForm {
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.formControl{
+    display: flex !important;
+    flex-direction: row !important;
+    padding: 10px !important;
+}
+
+.msgInput{
+    flex: 1;
+}
+
+.sendButton{
+    flex: 0;
+}
