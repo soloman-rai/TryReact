@@ -1,0 +1,21 @@
+.imageUpload {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(233, 233, 233);
+    z-index: 1;
+}
+
+.btnText {
+    padding: 5px;
+    font-size:13px;
+}
+
+.imgCaption{
+    width: 90%;
+    object-fit: cover;
+}

@@ -1,0 +1,45 @@
+.post {
+    background-color: white;
+    max-width: 800px;
+    border: 1px solid lightgray;
+    margin-bottom: 45px;
+}
+
+.post_image {
+    width: 100%;
+    object-fit: contain;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+
+.post_text {
+    font-weight: normal;
+    padding: 20px;
+}
+
+.post_header{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.post_avatar {
+    margin: 10px;
+}
+
+
+.post_comments{
+    /* display: flex; */
+    width: 90%;
+    padding: 20px;
+}
+
+.post_comment_form {
+    display: flex;
+    padding: 10px;
+}
+
+.post_comment_field{
+    flex: 1;
+    width: 100%;
+}
