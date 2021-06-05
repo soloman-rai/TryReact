@@ -19,14 +19,14 @@ function Home() {
                     title="Airpods Pro"
                     price={35000}
                     rating={5}
-                    image="http://www.pngmart.com/files/13/Airpods-PNG-Background-Image.png"
+                    image="https://freepngimg.com/thumb/tap/79960-headset-white-airpods-technology-headphones-png-free-photo.png"
                 />
                 <Product
                     id="106"
                     title="High Quality Speakers"
                     price={120000}
                     rating={3}
-                    image="http://www.pngmart.com/files/6/Computer-Speakers-PNG-Picture.png"
+                    image="https://freepngimg.com/thumb/speakers/22071-7-audio-speakers.png"
                 />
             </div>
 
@@ -36,21 +36,21 @@ function Home() {
                     title="Sony Camera"
                     price={111999}
                     rating={5}
-                    image="http://www.pngmart.com/files/2/Sony-Digital-Camera-Transparent-Background.png"
+                    image="https://freepngimg.com/thumb/photo%20camera/1-photo-camera-png-image.png"
                 />
                 <Product
                     id="104"
                     title="Haier TV"
                     price={50000}
                     rating={2}
-                    image="http://www.pngmart.com/files/1/Haier-TV-PNG.png"
+                    image="https://freepngimg.com/thumb/technology/52646-3-led-television-hd-hq-image-free-png.png"
                 />
                 <Product 
                     id="105"
-                    title="Iphone 12"
+                    title="Iphone 5"
                     price={119600}
                     rating={4}
-                    image="http://www.pngmart.com/files/15/Apple-iPhone-12-Transparent-PNG.png"
+                    image="https://freepngimg.com/thumb/apple_iphone/2-2-apple-iphone-picture.png"
                 />
             </div>
 
@@ -60,7 +60,7 @@ function Home() {
                     title="Air Conditioner"
                     price={100000}
                     rating={3}
-                    image="http://www.pngmart.com/files/7/Air-Conditioner-PNG-Photos.png"
+                    image="https://freepngimg.com/thumb/air_conditioner/3-2-ac-free-png-image.png"
                 />
             </div>
             
