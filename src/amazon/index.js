@@ -4,12 +4,19 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// Setting up Context API for Amazon Clone
+import StateProvider from './amazon/context/StateProvider';
+import reducer, { initialState }  from './amazon/context/reducer';
 
 
 
 ReactDOM.render(
   <React.StrictMode>
+
+    <StateProvider initialState={initialState} reducer={reducer}>
       <App />
+    </StateProvider>
+
   </React.StrictMode>,
   document.getElementById('root')
 );
