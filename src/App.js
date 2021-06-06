@@ -6,7 +6,8 @@ import './App.css';
 // import MessengerApp from './messenger/MessengerApp';
 // import InstaApp from './instagram/InstaApp';
 // import NetflixApp from './netflix/NetflixApp';
-import AmazonApp from './amazon/AmazonApp';
+// import AmazonApp from './amazon/AmazonApp';
+import TrackerApp from './covid/TrackerApp';
 
 
 function App() {
@@ -17,7 +18,8 @@ function App() {
       {/* <MessengerApp /> */}
       {/* <InstaApp /> */}
       {/* <NetflixApp /> */}
-      <AmazonApp />
+      {/* <AmazonApp /> */}
+      <TrackerApp />
     </div>
   );
 }

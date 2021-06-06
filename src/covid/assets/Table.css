@@ -1,0 +1,24 @@
+.table {
+  margin-top: 20px;
+  overflow: scroll;
+  height: 400px;
+  color: #6a5d5d;
+  background-color: white;
+}
+
+.tableElm {
+  width: 100%;
+}
+
+.tableElm tr {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tableElm td {
+  padding: 0.5rem;
+}
+
+.tableElm > tr:nth-of-type(odd) {
+  background-color: wheat;
+}

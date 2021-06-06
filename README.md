@@ -9,6 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 📷 Instagram Clone: https://instagramclone-5a42d.web.app/
 📺 Netflix Clone: https://netflix-clone-d6d44.web.app/
 🛒 Amazon Clone: https://clone-b6477.web.app/
+🕰️ Covid 19 Tracker: https://covid19tracker-3a3ad.web.app/
 
 ## Available Scripts
 
