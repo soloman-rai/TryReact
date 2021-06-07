@@ -7,7 +7,8 @@ import './App.css';
 // import InstaApp from './instagram/InstaApp';
 // import NetflixApp from './netflix/NetflixApp';
 // import AmazonApp from './amazon/AmazonApp';
-import TrackerApp from './covid/TrackerApp';
+// import TrackerApp from './covid/TrackerApp';
+import TinderApp from './tinder/TinderApp';
 
 
 function App() {
@@ -19,7 +20,8 @@ function App() {
       {/* <InstaApp /> */}
       {/* <NetflixApp /> */}
       {/* <AmazonApp /> */}
-      <TrackerApp />
+      {/* <TrackerApp /> */}
+      <TinderApp />
     </div>
   );
 }

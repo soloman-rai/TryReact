@@ -1,0 +1,28 @@
+.chats {
+  display: flex;
+  flex-direction: column;
+}
+
+.chats_link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.chatRow_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  height: 70px;
+  border-bottom: 1px solid #f9f9f9;
+}
+
+.chatRow_info {
+  flex: 1;
+  margin-left: 2vh;
+}
+
+.chatRow_info > p {
+  color: #a7a7a7;
+  padding: 5px;
+}
