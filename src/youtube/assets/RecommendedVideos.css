@@ -1,0 +1,9 @@
+.recommendedVideos {
+  flex: 0.8; /* take up 80 percent of the full width */
+  padding: 20px;
+}
+
+.recommendedVideos_list {
+  display: flex;
+  flex-wrap: wrap;
+}

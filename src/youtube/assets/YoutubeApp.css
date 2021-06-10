@@ -1,0 +1,8 @@
+.app_page {
+  display: flex;
+}
+
+body {
+  background-color: rgb(19, 16, 16);
+  color: white;
+}
