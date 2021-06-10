@@ -6,11 +6,15 @@ import ArrowBackIosIcon from '@material-ui/icons/ArrowBackIos';
 import { IconButton } from '@material-ui/core';
 import '../assets/Header.css';
 import { Link } from 'react-router-dom';
+import { useStateValue } from '../context/StateProvider';
 
-function Header({ backButton }) {
+
+function Header({ backButton, profileButton }) {
+    const [{user}, dispatch] = useStateValue();
+
     return (
         <div className="header">
-            <Link to={backButton ? `${backButton}` : ''}>
+            <Link to={backButton ? `${backButton}` : profileButton ? '/profile' : ''}>
                 <IconButton>
                     {!backButton ?
                         <PersonIcon className="header_icon" fontSize="large" />
