@@ -53,17 +53,17 @@ const SearchResults = () => {
                 title="This AUDIO INTERFACE Setup ACTUALLY Made Me CRY | EVO 4"
                 timestamp="59 minutes ago"
                 channel={searchTerm}
-                image="https://i.ytimg.com/an_webp/UkfrCSqViB4/mqdefault_6s.webp?du=3000&sqp=CPT2iIYG&rs=AOn4CLCN6m39CRAej3AZ2NyQJAGV3D--NQ"
+                image="https://images.unsplash.com/photo-1569050937856-f2a05c0ab6f9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1334&q=80"
             />
 
             <VideoRow
                 views="510K"
                 subs="6M"
                 description="Learn the EXACT steps you need to take to use the piano sustain pedal correctly and use this SIMPLE exercise to get started and ..."
-                title="Sustain Pedal - How to use it - Piano Lesson"
+                title="Pedal borad - How to use it - Guita Pedals Guidelines"
                 timestamp="1 year ago"
                 channel={searchTerm}
-                image="https://i.ytimg.com/an_webp/YYXbMgecD0w/mqdefault_6s.webp?du=3000&sqp=CKD4iIYG&rs=AOn4CLAmMP1mr9YZuaoGZX6wMkThDbAbgg"
+                image="https://images.unsplash.com/photo-1494097867382-c2534fc135dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
             />
 
             <VideoRow
@@ -73,7 +73,7 @@ const SearchResults = () => {
                 title="Ear Training Exercise - Level 1"
                 timestamp="10 weeks ago"
                 channel={searchTerm}
-                image="https://i.ytimg.com/an_webp/EazFLAA-Pog/mqdefault_6s.webp?du=3000&sqp=CKjkiIYG&rs=AOn4CLCjJwYxFVqn0xZImNaMx52lPlDjFw"
+                image="https://images.unsplash.com/photo-1577205311375-4879d071d3d6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
             />
 
             <VideoRow
@@ -83,7 +83,7 @@ const SearchResults = () => {
                 title="Jacob Collier & YEBBA - Bridge Over Troubled Water"
                 timestamp="2 months ago"
                 channel={searchTerm}
-                image="https://i.ytimg.com/an_webp/y9RUgsD8dRY/mqdefault_6s.webp?du=3000&sqp=CIz9iIYG&rs=AOn4CLBCJm5C66zVDaBJti7KBUwVFhwjWQ"
+                image="https://images.unsplash.com/photo-1543510616-a4025b9c1434?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
             />
 
 
