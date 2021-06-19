@@ -8,7 +8,8 @@ import './index.css';
 // import AmazonApp from './amazon/AmazonApp';
 // import TrackerApp from './covid/TrackerApp';
 // import TinderApp from './tinder/TinderApp';
-import YoutubeApp from './youtube/YoutubeApp';
+// import YoutubeApp from './youtube/YoutubeApp';
+import TiktokApp from './tiktok/TiktokApp';
 // import { Grommet } from 'grommet'
 
 
@@ -23,7 +24,8 @@ function App() {
       {/* <AmazonApp /> */}
       {/* <TrackerApp /> */}
       {/* <TinderApp /> */}
-      <YoutubeApp />
+      {/* <YoutubeApp /> */}
+      <TiktokApp />
     </div>
   );
 }
