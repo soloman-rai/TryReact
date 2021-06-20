@@ -12,6 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 🕰️ Covid 19 Tracker: https://covid19tracker-3a3ad.web.app/
 📅 Tinder Clone: https://tinder-clone-f1308.web.app/
 📹 Youtube Clone: https://clone-youtub.web.app/
+✨ Disney Clone: https://disneyclone-bc12c.web.app/
 
 ## Available Scripts
 

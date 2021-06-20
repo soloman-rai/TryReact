@@ -9,7 +9,8 @@ import './index.css';
 // import TrackerApp from './covid/TrackerApp';
 // import TinderApp from './tinder/TinderApp';
 // import YoutubeApp from './youtube/YoutubeApp';
-import TiktokApp from './tiktok/TiktokApp';
+// import TiktokApp from './tiktok/TiktokApp';
+import DisneyApp from './disney/DisneyApp';
 // import { Grommet } from 'grommet'
 
 
@@ -25,7 +26,8 @@ function App() {
       {/* <TrackerApp /> */}
       {/* <TinderApp /> */}
       {/* <YoutubeApp /> */}
-      <TiktokApp />
+      {/* <TiktokApp /> */}
+      <DisneyApp />
     </div>
   );
 }
