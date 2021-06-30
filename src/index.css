@@ -8,13 +8,13 @@ body {
 
   /* CSS for Disney Clone */
   color: white;
-  background: #040714;
+  background: #03031b;
 }
 
 /* CSS for Disney Clone */
-* {
+/* * {
   box-sizing: border-box;
-}
+} */
 
 *::-webkit-scrollbar {
   display: none;

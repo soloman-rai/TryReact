@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-import { Provider } from './spotify/context/Provider';
-import reducer, { initialState } from './spotify/context/reducer';
+import App from '../App';
+import reportWebVitals from '../reportWebVitals';
+import { store } from './app/store';
+import { Provider } from 'react-redux';
 
 
 ReactDOM.render(
   <React.StrictMode>
-    <Provider initialState={initialState} reducer={reducer}>
+    <Provider store={store}>
       <App />
     </Provider>
   </React.StrictMode>,

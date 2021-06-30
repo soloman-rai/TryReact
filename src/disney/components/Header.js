@@ -56,32 +56,32 @@ const Header = () => {
                 <Logo src="/disney/images/logo.svg" alt="Disney Logo" />
             </Link>
             <NavMenu>
-                <a>
+                <a href="">
                     <img src="/disney/images/home-icon.svg" alt="Home SVG" />
                     <span>Home</span>
                 </a>
 
-                <a>
+                <a href="">
                     <img src="/disney/images/search-icon.svg" alt="Home SVG" />
                     <span>Search</span>
                 </a>
 
-                <a>
+                <a href="">
                     <img src="/disney/images/watchlist-icon.svg" alt="Home SVG" />
                     <span>Watchlist</span>
                 </a>
 
-                <a>
+                <a href="">
                     <img src="/disney/images/original-icon.svg" alt="Home SVG" />
                     <span>Originals</span>
                 </a>
 
-                <a>
+                <a href="">
                     <img src="/disney/images/movie-icon.svg" alt="Home SVG" />
                     <span>Movies</span>
                 </a>
 
-                <a>
+                <a href="">
                     <img src="/disney/images/series-icon.svg" alt="Home SVG" />
                     <span>Series</span>
                 </a>

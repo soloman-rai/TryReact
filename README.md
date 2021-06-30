@@ -13,6 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 📅 Tinder Clone: https://tinder-clone-f1308.web.app/
 📹 Youtube Clone: https://clone-youtub.web.app/
 ✨ Disney Clone: https://disneyclone-bc12c.web.app/
+🎵 Spotify Clone: https://spotify-65645.web.app/
 
 ## Available Scripts
 
