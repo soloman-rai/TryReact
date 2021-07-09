@@ -1,0 +1,41 @@
+:root {
+  --textColor: rgb(65, 54, 66);
+  --btnBgColor: #3287b7;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 1em;
+  /* font-family: "Neutif Pro"; */
+  height: 100vh;
+  background-color: #f2f0e4;
+}
+
+a,
+a:focus,
+a:active {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Change Material Icons Color */
+.MuiSvgIcon-root {
+  color: black !important;
+}
+
+.primaryBtn {
+  background-color: var(--btnBgColor);
+  color: #fff;
+  border-radius: 2em;
+  padding: 0.5em 1.5em;
+  font-size: 1.2em;
+  font-style: normal;
+  text-align: center;
+}
