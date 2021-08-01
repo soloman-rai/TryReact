@@ -12,7 +12,8 @@ import './index.css';
 // import TiktokApp from './tiktok/TiktokApp';
 // import DisneyApp from './disney/DisneyApp';
 // import SpotifyApp from './spotify/SpotifyApp';
-import ClubhouseApp from './clubhouse/ClubhouseApp';
+// import ClubhouseApp from './clubhouse/ClubhouseApp';
+import TeslaApp from './tesla/TeslaApp';
 // import { Grommet } from 'grommet'
 
 
@@ -31,7 +32,8 @@ function App() {
       {/* <TiktokApp /> */}
       {/* <DisneyApp /> */}
       {/* <SpotifyApp /> */}
-      <ClubhouseApp />
+      {/* <ClubhouseApp /> */}
+      <TeslaApp />
     </div>
   );
 }
