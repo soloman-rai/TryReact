@@ -14,6 +14,8 @@ import Home from './pages/Home';
 import Explore from './pages/Explore';
 import Profile from './pages/Profile';
 import GetUsername from './pages/GetUsername';
+import Activity from './pages/Activity';
+import Upcoming from './pages/Upcoming';
 
 
 function ClubhouseApp() {
@@ -36,11 +38,13 @@ function ClubhouseApp() {
                     </Switch>   
                 </PlanLayout>
             </Route>
-            <Route exact path={['/home', '/explore', '/profile']}>
+            <Route exact path={['/home', '/explore', '/profile', '/activity', '/upcoming']}>
                 <AppLayout>
                     <Switch>
                         <Route exact path='/home' component={Home}></Route>
                         <Route exact path='/explore' component={Explore}></Route>
+                        <Route exact path='/activity' component={Activity}></Route>
+                        <Route exact path='/upcoming' component={Upcoming}></Route>
                         <Route exact path='/profile' component={Profile}></Route>
                     </Switch>
                 </AppLayout>

@@ -39,3 +39,14 @@ a:hover {
   font-style: normal;
   text-align: center;
 }
+
+@media (min-width: 768px) {
+  .ReactSwipeableBottomSheet--open {
+    max-height: 740px !important;
+  }
+}
+
+/* For the Room Cards in the Home Page to avoid the overlapping of footers and the last room card */
+.lastRoomCard {
+  padding-bottom: 4em;
+}

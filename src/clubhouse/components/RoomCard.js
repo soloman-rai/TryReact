@@ -14,11 +14,16 @@ const RoomCard = (props) => {
     //     }, room.members.slice());
     //     console.log(members);
     // })}
+    const [roomsNum, setRoomsNum] = useState(0)
+
+    useEffect(() => {
+        setRoomsNum(data.length - 1);
+    }, [data])
 
     return (
         <Container>
-            {data.map(room => (
-                <RoomCardWrapper key={room.id}>
+            {data.map((room, index) => (
+                <RoomCardWrapper key={room.id} className={index === roomsNum && 'lastRoomCard'}>
                     <RoomCardContainer>       
                         <RoomCardBody>
                             <Title>{room.title}</Title>

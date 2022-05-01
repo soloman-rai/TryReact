@@ -7,13 +7,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 🗒️ ToDo App: https://todo-52c81.web.app/  
 🔵 Facebook Messenger Clone: https://messengerclone-d57f4.web.app/
 📷 Instagram Clone: https://instagramclone-5a42d.web.app/
-📺 Netflix Clone: https://netflix-clone-d6d44.web.app/
-🛒 Amazon Clone: https://clone-b6477.web.app/
+📺 Netflix UI Clone: https://netflix-clone-d6d44.web.app/
+🛒 Amazon UI Clone: https://clone-b6477.web.app/
 🕰️ Covid 19 Tracker: https://covid19tracker-3a3ad.web.app/
 📅 Tinder Clone: https://tinder-clone-f1308.web.app/
-📹 Youtube Clone: https://clone-youtub.web.app/
-✨ Disney Clone: https://disneyclone-bc12c.web.app/
+📹 Youtube UI Clone: https://clone-youtub.web.app/
+✨ Disney UI Clone: https://disneyclone-bc12c.web.app/
 🎵 Spotify Clone: https://spotify-65645.web.app/
+🚗 Tesla UI Clone: https://teslaclone-fc8ab.web.app/
 
 ## Available Scripts
 

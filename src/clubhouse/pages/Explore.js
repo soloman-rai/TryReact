@@ -29,8 +29,8 @@ const Explore = () => {
             </Header>
             <h6>People to Follow</h6>
             <PeopleContainer>
-                {people.map(person => (
-                    <Person>
+                {people.map((person, index) => (
+                    <Person key={index}>
                         <div className="d-flex align-items-center">
                             <PersonImage src={person.image} alt="User Image" />
                             <PersonInfo className="ml-2">
